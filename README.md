@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
-Name: [Your Name]
-Date: [Submission Date]
-LLM Used: [e.g., ChatGPT-4, Claude 3.5 Sonnet, Gemini Pro]
+Name:Srikar Muppala
+Date:03-jun-2026
+LLM Used:Gemini
 
 ## Part 1: Prompt Design & Iteration
 ### 1.1 Scenario A: Technical Explanation
