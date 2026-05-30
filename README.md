@@ -1,6 +1,8 @@
 # Prompt Engineering Portfolio
 Name:Srikar Muppala
+
 Date:03-jun-2026
+
 LLM Used:Gemini
 
 ## Part 1: Prompt Design & Iteration
