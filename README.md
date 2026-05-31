@@ -55,7 +55,39 @@ Less plastic. More legendary hydration.
 
 
 ### 1.2 Iteration Documentation
+# Iteration Documentation
 
+## Scenario A: Technical Explanation
+
+**Goal:** Explain a complex technical concept ("Recursion") to a 10-year-old.
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|----------|----------|----------|
+| V1 | Explain "Recursion" to a 10-year-old. | Initial prompt. | Produced a simple explanation but lacked engagement, analogy, and interaction. |
+| V2 | You are an award-winning science teacher for middle schoolers. Explain recursion. Use a clear analogy but ensure the tone is engaging and slightly more educational than the previous version. | Added role prompting, educational tone, and analogy requirement. | Improved clarity and engagement by making the explanation more relatable and structured. |
+| V3 | You are an expert computer science tutor. Explain recursion to a 10-year-old. Use the 'Russian Nesting Dolls' analogy, but explicitly include a 'Check for Understanding' question at the end to make it interactive. Use simple, non-technical language. | Added a specific analogy, audience focus, simple language requirement, and an interactive element. | Generated a highly engaging explanation with a concrete visual example and improved learning through interaction. |
+---
+
+## Scenario B: Professional Email
+
+**Goal:** Write an email declining a job offer while maintaining a positive relationship with the company.
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|----------|----------|----------|
+| V1 | Write an email declining a job offer but say I still like the company. | Initial prompt. | Produced a functional email but lacked professionalism and networking intent. |
+| V2 | You are a professional career coach. Rewrite the email I wrote to decline a job offer. Make it warmer and more appreciative of the time the team invested in my interview process. Include a specific sentence inviting the hiring manager to connect on LinkedIn so we can maintain a long-term professional relationship. | Added appreciation, networking, and relationship-building elements. | Resulted in a more thoughtful and professional email. |
+| V3 | You are a senior-level executive. Refine the email further to be concise, highly professional, and gracious. Your goal is to leave the door open for future collaboration because the industry is small. Avoid sounding apologetic; instead, focus on the 'mutual fit' aspect. Ensure the tone is empathetic but firm in the decision. Structure the email as follows: 1) Thank them for the offer, 2) State the decision clearly but briefly, 3) Mention one specific thing you admire about their team/culture, 4) Suggest keeping in touch for future opportunities. | Added executive perspective, structure, tone guidance, and future collaboration focus. | Produced a polished, concise, and relationship-focused professional email. |
+
+---
+## Scenario C: Creative Content
+
+**Goal:** Generate a creative marketing tagline for a new eco-friendly water bottle brand.
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|----------|----------|----------|
+| V1 | Give me some taglines for an eco-friendly water bottle. | Initial prompt. | Generated generic taglines with limited brand differentiation. |
+| V2 | You are a world-class brand strategist for a sustainable lifestyle brand. Provide 5 taglines that focus specifically on the premium quality and durability of an eco-friendly water bottle. Your target audience is busy urban professionals who care about both aesthetics and the environment. Avoid generic phrases like "save the planet". | Added audience, positioning, and messaging constraints. | Produced more targeted and premium-oriented taglines. |
+| V3 | You are a top-tier creative copywriter. Your goal is to write 5 taglines for an eco-friendly water bottle that feel minimalist, witty, and aspirational. Use the following constraints: Each tagline must be under 7 words. Use a Problem-Solution structure. Tone should be confident and modern. Present the output in a clean bulleted list. | Added creative style, word limits, structure, tone, and formatting requirements. | Generated concise, memorable, and brand-ready taglines with stronger marketing appeal. |
 
 ### 1.3 Role and Context Analysis
 
