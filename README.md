@@ -97,6 +97,58 @@ Context setting - Second, context setting provided the necessary constraints to 
 
 
 
+#Part 2: Temperature & Parameter Control (20 points)
+
+## Part 2: Temperature & Parameter Control
+
+### 2.1 Temperature Experimentation
+
+**Prompt used:** "Write a product description for a new high-performance laptop designed for professional video editors." (With temperature-specific modifiers added)
+
+**Low Temperature Output (Deterministic):**
+Product Specification: ProEdit Studio X1
+The ProEdit Studio X1 is a high-performance mobile workstation engineered specifically for professional-grade video editing, color grading, and motion graphics workflows.
+Technical Specifications
+Processor: 16-core CPU (8 Performance-cores, 8 Efficiency-cores) with a maximum turbo frequency of 5.4 GHz.
+Memory: 64GB LPDDR5X RAM, unified architecture with 400 GB/s memory bandwidth to facilitate real-time playback of high-bitrate footage.
+Graphics: Dedicated GPU with 16GB GDDR6 VRAM, optimized for hardware-accelerated encoding/decoding (H.264, HEVC, ProRes) and 3D rendering.
+Display: 16.2-inch Liquid Retina XDR display; 3456 x 2234 native resolution; 1,600 nits peak brightness (HDR content); 1,000,000:1 contrast ratio; 120Hz ProMotion adaptive refresh rate.
+Storage: 2TB NVMe SSD with sequential read speeds up to 7,400 MB/s.
+Connectivity: 3x Thunderbolt 4 (USB-C) ports, 1x HDMI 2.1 port, SDXC card slot (UHS-II), Wi-Fi 7, and Bluetooth 5.4.
+Thermal Management: Dual-fan cooling system designed to handle sustained loads of 100W+ TDP.
+
+**Medium Temperature Output (Balanced):**
+Meet the StudioFlow Pro: Where Precision Meets Power
+The StudioFlow Pro is engineered for those who demand absolute reliability in the edit suite. Built to handle complex, multi-layered timelines and intensive rendering, this is the workstation that keeps up with your vision.
+Key Features:
+- Unrivaled Processing: Effortlessly handles 8K raw files and high-bitrate color grading.
+- Color-Accurate Display: 16.2-inch XDR display for absolute color fidelity and deep contrast.
+- Blazing Workflow Speed: Integrated high-speed SSD and advanced unified memory reduce export times.
+- Pro-Grade Connectivity: Comprehensive port selection ensures your peripherals are always ready.
+- Cool Under Pressure: Advanced thermal architecture ensures consistent, sustained performance.
+The StudioFlow Pro isn’t just a laptop—it’s an extension of your creative workflow.
+
+**High Temperature Output (Creative):**
+Introducing the Zenith Obsidian: The Canvas That Never Sleeps
+The edit suite is no longer a room; it’s a state of mind. When inspiration strikes at 3:00 AM, you need a partner that breathes life into your pixels and turns raw footage into visceral emotion.
+Crafted for the Visionaries: Forged from aerospace-grade brushed titanium, it carries the silent, brooding elegance of an artisan’s tool.
+See the Unseen: Our Infinite-Depth OLED display doesn't just show color; it recreates reality.
+The Heart of a Titan: Powered by a Neural-Sync architecture that predicts your next cut, it laughs at 12K RAW files.
+A Legacy in the Making: We designed the Obsidian for the high-stakes deadlines and the quiet moments of breakthrough. It’s for the editors who refuse to settle. The Zenith Obsidian. Where your vision finds its voice.
+
+| Temperature Setting | Description | Key Differences Observed |
+| :--- | :--- | :--- |
+| **Low** | Deterministic | Highly structured; focuses strictly on hardware specs and technical metrics; clinical tone. |
+| **Medium** | Balanced | Professional and persuasive; balances specs with functional workflow benefits. |
+| **High** | Creative | Uses dramatic, evocative language; focuses on the "artistic experience" rather than hardware. |
+
+### 2.2 Analysis & Recommendations
+
+I would use a low temperature for tasks requiring high accuracy and consistency, such as coding or summarizing technical documentation, where factual errors are unacceptable. Conversely, I would use a high temperature for creative endeavors like brainstorming marketing campaigns or drafting fictional narratives where originality and "out-of-the-box" thinking are prioritized. For this product description task, the medium temperature worked best; it successfully bridged the gap between necessary technical clarity and the persuasive, engaging language required for a sales-driven description. The low temperature was perhaps too dry for marketing, while the high temperature occasionally drifted into over-the-top marketing hyperbole that lacked grounding in technical reality. Therefore, the balanced approach provided the most professional and effective end result.
+
+
+
+
 
 
 
