@@ -1,6 +1,8 @@
 # Prompt Engineering Portfolio
 Name:Srikar Muppala
+
 Date:02-june-2026
+
 LLM Used: Gemini 3.5 Flash
 
 ## Part 1: Prompt Design & Iteration
